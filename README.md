@@ -1,3 +1,5 @@
-# api-estudo
+# ASP.NET Core - Autenticação e Autorização
 
-Teste
+Conteúdo de Estudo balta.io 
+
+https://balta.io/artigos/aspnet-5-autenticacao-autorizacao-bearer-jwt
